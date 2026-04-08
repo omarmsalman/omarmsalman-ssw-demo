@@ -1,0 +1,298 @@
+CDC Strategic Solutions WorkstreamDRAFT: MARCH 10, 2026� For Internal CDC Use� CDC Strategic Solutions WorkstreamDRAFT: MARCH 10, 2026� For Internal CDC Use�
+CDC Strategic Solutions Workstream
+DRAFT: MARCH 10, 2026�
+For Internal CDC Use�
+CDC Strategic Solutions Workstream
+DRAFT: MARCH 10, 2026�
+For Internal CDC Use�
+TECHNICAL SHEET 1/3Polio Response Diagnostic SheetTECHNICAL SHEET 1/3Polio Response Diagnostic Sheet
+TECHNICAL SHEET 1/3Polio Response Diagnostic Sheet
+TECHNICAL SHEET 1/3Polio Response Diagnostic Sheet
+Technical Sheet 1/2: Polio Response Diagnostic Sheet
+Contents:
+Capacity 1: Surveillance System Performance
+Capacity 2: Outbreak Response Performance
+Capacity 3: Resource Mobilization
+Capacity 4: Governance and Oversight
+Capacity 5: Analytics
+Capacity 6: Networks
+Review Start Date
+Review End Date
+BACKGROUND
+Country
+Sub-Region
+☐Sahel
+☐West Africa Corridor
+☐Horn of Africa
+☐Southern Africa
+☐Central Basin
+☐MENA
+☐East Asia
+Virus Type(s)
+☐cVDPV1
+☐cVDPV2
+☐ cVDPV3
+EmergenceGroups
+Most Recent Detection:
+☐AFP
+☐ES
+☐Date
+☐ Province/s
+Upcoming Campaign(s):
+Type:
+Antigen:
+Target age group:
+Dates:
+CDC Country Focal Point(s):
+CAPACITY 1 — SURVEILLANCE SYSTEM PERFORMANCE
+Demographics
+Total population
+Non-census/displaced populations
+Population under-5
+Displaced populations under-5
+Mobile populations (nomads, remote populations)
+Latest census year
+Routine Immunization Schedule
+National schedule
+Geographic clustering
+Cross-border risk
+DTP3 coverage
+DTP 1 coverage
+Measles elimination status
+Surveillance Indicators (Last 12 Months)
+Indicator
+National Value
+Threshold
+Notes
+Non-polio AFP rate
+≥2
+Stool adequacy (%)
+≥80%
+% districts silent in the last 60 days
+<10%
+ES sites detecting poliovirus within 14 days
+≥90%
+Case investigation completed ≤48h (%)
+≥95%
+Weakest districts:
+Systems
+Yes/No
+Parallel reporting systems (paper + digital inconsistency)
+Integrated disease surveillance system present
+VPD surveillance (province)
+VPD surveillance (central)
+VPD surveillance (health facility)
+Other Root Cause Issues (select as applicable)
+☐ Missing SIA sub-component
+☐ Workforce shortage
+☐ Transport/logistics gap
+☐ Microplanning failure
+☐ Supervision weakness
+☐ Data not driving decisions
+☐ No consequence management
+☐ Digital system fragmentation
+☐ Accountability breakdown
+☐ Data fraud/inflation risk
+☐ Cold chain disruption
+☐ Access/security barrier
+☐ Weak districtleadership/engagement
+☐ Pre-marking/vaccinator target mismatch
+SECTION 2 — OUTBREAK RESPONSE PERFORMANCE
+Response Timeliness
+Indicator
+Response
+Standard
+Comments
+Days from case confirmation to response campaign
+≤14
+% high-risk districts covered in first round
+≥95%
+LQAS pass rate (%)
+≥90%
+Missed children per 10,000
+<50
+Microplans updated ≤30 days before campaign
+100%
+Campaign Execution Gaps
+Indicator
+Yes/No
+EOC structure available
+Microplans exclude informal settlements
+Teams missing daily performance reporting
+Missing geo-coordinates for vaccinators
+Missing geo-coordinates for supervisors
+Vaccine stock mismatch vs target population
+Independent monitoring data not collected/reconciled
+Parallel microplans across agencies
+No unified dashboard at national level
+Microplanning
+Microplanning Quality
+Settlement-level enumeration
+Urban slum mapping
+Transit vaccination points
+High-risk settlement inclusion
+Mobility Assessment
+IDP concentrations
+Refugee flows (inbound/outbound)
+Nomadic corridors
+Seasonal agricultural migration
+Urban informal settlements
+List major mobile corridors, IDP routes, seasonal movements, and informal settlements.
+Migration corridor/s
+IDP routes
+Seasonal movements
+Informal
+2. CrossBorder Vaccination Capacity
+Indicator
+Yes/No
+Border Surveillance for Polio
+Border districts regularly report AFP cases with no >60day silent periods (relevant to surveillance indicators).
+Specimen transport from border areas meets ≤72hour timeliness.
+Crossborder alerts or virus detections are shared promptly with neighboring countries.
+Permanent or temporary vaccination posts exist at key land crossings.
+Transit, nomadic, and mobile populations in border zones are included in microplans.
+Vaccinator teams at borders have reliable vaccine stock and cold chain capacity.
+Border vaccination data is reconciled with neighboring country data before/after SIAs.
+Border areas assessed as High/Moderate/Fragile readiness for campaign operations.
+Security risks at border could disrupt vaccination or supervision.
+Logistic constraints (fuel, transport, access) may delay campaign rounds.
+Governance/coordination gaps (e.g., no shared microplans, weak district leadership).
+Health authorities participate in joint crossborder meetings on polio.
+Shared microplans with neighboring countries include synchronized campaign dates.
+Border health officials have clear communication pathways for AFP alerts.
+District and national EOCs integrate crossborder data into campaign planning.
+Mobile corridors and informal settlements along borders are mapped.
+Zerodose or persistently missed children identified in border districts.
+Daily campaign monitoring includes border and transit points.
+Independent monitoring captures crossborder movements and missed children patterns.
+Ancillary support
+Outreach Vaccination (e.g., mobile health teams)
+Community Health Workers
+Community engagement (e.g., CHWS, Religious leaders)
+Microplanning
+Cross border teams (permanent transit teams, surveillance)
+Point of entry vaccination (returnee)
+Active surveillance
+Polio plusses (blankets, soaps, other incentive items)
+High-risk mobile populations
+Nutrition
+WASH
+SECTION 3 — RESOURCE MOBILIZATION
+Current health priorities
+Current non-health/developmental priorities (e.g.
+Share of government financing for vaccination
+Doctor-to-patient ratio
+SECTION 4 – GOVERNANCE & OVERSIGHT MECHANISMS
+Political and Governance Environment
+Stability assessment
+Upcoming elections or transitions
+Subnational governance variability
+Decentralization effects on campaign authority
+Accountability Controls
+Control Mechanism
+Exists
+Functional (Y/N)
+Independent monitoring
+Real-time campaign dashboard
+Geo-tagged supervision
+Performance-linked incentives
+Escalation protocol for failed districts
+Governance Weakness Type
+☐ Fragmented command structure
+☐ Role ambiguity
+☐ Political interference
+☐ Partner misalignment
+☐ No performance enforcement
+☐Non-state actors
+☐ Ghost workers
+☐ Inflated/deflated population estimate reporting
+Anticipated Disruptive Events (Next 6 Months)
+Include:
+Flooding season
+Religious gatherings
+Fuel shortages
+Labor strikes
+Telecom disruptions
+Border closures
+Other
+Security & Access
+Military or humanitarian access constraints
+No-go districts
+Conflict zones
+Areas under non-state control
+Corrective action:
+If LQAS fail >10%, what happens?
+☐ Immediate mop-up
+☐ Delayed response
+☐ No corrective action
+☐ Other:
+Clear MoH lead authority (Yes/No)
+Monthly coordination meetings documented
+District-level accountability meetings occurring
+Partner role duplication observed
+Data shared across partners in real time
+Cross-Border Coordination
+Joint meetings
+Shared microplans
+Border vaccination posts
+SECTION 5- ANALYTICS
+Denominator Sources & Reconciliation
+List current methods to obtain population estimates for campaigns
+Campaign Monitoring Forms Format
+Vaccination Team Supervision checklist
+Vaccination team preparedness checklist
+Supervisory checklist (1-page)
+Tally sheet (household/child doses delivered)
+LQAS forms
+End process monitoring
+Preparedness assessment form (district/health center readiness)
+Specific investigation forms (e.g., refusals, communication)
+SECTION 6 — NETWORKS & PARTNER FUNCTIONALITY
+Community Influence Networks
+Religious leaders
+Market associations
+Youth influencers
+Women’s groups
+Community health workers
+In-Country Stakeholders
+Agency
+Current Role
+Gap It Can Fill
+MOH/EPI
+WHO
+UNICEF
+NGOs
+Traditional leaders
+Private sector
+Border authorities
+Education authorities
+US Government Agencies
+Agency
+Current Role
+Gap It Can Fill
+Required Decision
+POC identified (Yes/No)
+WORKSTREAM ASSESSMENT
+Based on findings, complete the final assessment.
+Top 5 Operational Gaps:
+Immediate Risk to Upcoming Campaign
+Readiness level (high/moderate/fragile)
+Most likely derailers (e.g., security, funding, logistics, governance):
+Opportunities for programmatic synchronies
+Proposed Solutions (30Day Plan)
+Identified Gap
+Specific Risks
+Proposed Solutions
+Implementation Plan
+Actors By/with who
+Where? Sub-national unit
+Stakeholders Support Needed
+Known Partners
+Prospective Partners
+External Risk mitigation
+Anticipated Event
+Exp. Date
+Likelihood
+Operational Impact
+Mitigation
+Data Missing
